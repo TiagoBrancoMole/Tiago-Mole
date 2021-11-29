@@ -1,2 +1,5 @@
 # Tiago-Mole
-This is an account I set up for a visual representation of my advancement in coding
+Who Am I?
+I'm Tiago Mole, a kid from Portugal who grew up in Canada
+What Do I Want?
+Entrepreneur, Politician and Journalist. Guess you gotta be ambitious in this world
